@@ -16,17 +16,19 @@ Elements, tags and attributes
 **Elements:**- contains opening tags, content, closing tags; for example,  
 `<h1>Hello World!</h1>`
  Here in the above example h1 is the element  
- 
+
 **Tags:**- Once we wrap the element name in between the less than and greater than, angle bracket then it becomes a tag. There are two types of tag container and non-container tag, one which has both opening and well as closing tag are known as container tag and the one which has only opening tags are known as non-container tag  
 
 Example:- `<h1>heading</h1>`, `<br>`
-Here h1 is container tag and br is non-container tag.
+Here h1 is container tag and br is non-container tag.  
+
 **Atrribute**:-It provide some extra information about the element, which actually doesn’t appear as content in a webpage.Atrributes are only used in the opening tags
 Example:- `<img src=”” alt=””>`
 Here src is attribute of img tag.
   ## Basics of CSS
 
-CSS stands for Cascading styling sheets. Css is used to design    our website by adding visual elements like color, layouts, fonts etc. To style elements they are first targeted and then the required styles are applied with the help of selectors, properties and values in CSS.
+CSS stands for Cascading styling sheets. Css is used to design    our website by adding visual elements like color, layouts, fonts etc. To style elements they are first targeted and then the required styles are applied with the help of selectors, properties and values in CSS.  
+
 **Selectors**:- CSS selectors are used to "find" (or select) the HTML elements you want to style.
 Example:- `h1{
 }`
