@@ -48,10 +48,10 @@ Here heading is the class selector
 
    `<div id="container"></div>`
 In
-  `#container {
+  #container {
 
     background-color: red;
-  }`
+  }
 Here container is id selector
 
  ## Refrencing CSS
