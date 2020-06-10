@@ -1,0 +1,31 @@
+body {
+    background-color: #035aa6;
+    color: white;
+}
+
+h2{
+    color: #649d66;
+}
+
+.para{
+    line-height: 2;
+}
+
+.intro img{
+    height: 200px;
+    width: 200px;
+}
+
+.intro{
+    text-align: center;
+}
+
+.footer{
+    height: 33px;
+    text-align: center;
+    background-color: #084177;
+    color: white;
+}
+.footer p{
+    padding-top: 4px;
+}
