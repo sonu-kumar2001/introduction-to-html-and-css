@@ -48,13 +48,13 @@ Here heading is the class selector
 
    `<div id="container"></div>`
 In
-  ```#container {
+  `#container {
 
     background-color: red;
-  }```
+  }`
 Here container is id selector
 
- ##Refrencing CSS
+ ## Refrencing CSS
  
 There are 3 ways to include CSS in our HTML file:
 1.	Inline styling:- In inline styling, we write our style inside the tag only.
