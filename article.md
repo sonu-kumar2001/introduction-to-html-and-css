@@ -15,8 +15,10 @@ HTML stand for hyper text markup language. It is not considered as a programming
 Elements, tags and attributes
 **Elements:**- contains opening tags, content, closing tags; for example,  
 `<h1>Hello World!</h1>`
- Here in the above example h1 is the element
-**Tags:**- Once we wrap the element name in between the less than and greater than, angle bracket then it becomes a tag. There are two types of tag container and non-container tag, one which has both opening and well as closing tag are known as container tag and the one which has only opening tags are known as non-container tag
+ Here in the above example h1 is the element  
+ 
+**Tags:**- Once we wrap the element name in between the less than and greater than, angle bracket then it becomes a tag. There are two types of tag container and non-container tag, one which has both opening and well as closing tag are known as container tag and the one which has only opening tags are known as non-container tag  
+
 Example:- `<h1>heading</h1>`, `<br>`
 Here h1 is container tag and br is non-container tag.
 **Atrribute**:-It provide some extra information about the element, which actually doesn’t appear as content in a webpage.Atrributes are only used in the opening tags
@@ -28,7 +30,8 @@ CSS stands for Cascading styling sheets. Css is used to design    our website by
 **Selectors**:- CSS selectors are used to "find" (or select) the HTML elements you want to style.
 Example:- `h1{
 }`
-   Here h1 is the selector
+   Here h1 is the selector  
+
 **Properties & Values**:-  Property determines the style that needs to     be applied and value determines the behavior of the property. It can be any property & value of the element.
 Example:-
 `H1{
