@@ -1,5 +1,5 @@
-#An introduction to HTML and CSS basics
-##Sonu kumar
+# An introduction to HTML and CSS basics
+## Sonu kumar
 
 Before we get started on the basics of HTML and CSS, We need to understand the basics of the internet and how a website work.
 We view any website with the help of the web browser, our browser understand only 3 language i.e HTML, CSS and Javascript. The entire working can be divided into client-server model.
@@ -9,7 +9,7 @@ Frontend is basically whatever we see on the website and interact with and it is
 1.	**HTML**:- HTML stands for Hyper text markup language.It is a markup language and help us to markup things on the website like header, section, footer, button etc. Bascially it help us to define the structure of the web page.
 2.	**CSS**:-CSS stands for Cascading Style Sheets. Css is used to design our website by adding visual elements like color, layouts, fonts etc.
 3.	**Javascript**:-It is a programming language which helps to make our website interactive. It is used to interact with user action like slides, scroll etc
-##Basics of HTML
+## Basics of HTML
 
 HTML stand for hyper text markup language. It is not considered as a programming language. It help us to provide a structure to our webpage. It used to markup the different parts of the webpage with the help of the tags.
 Elements, tags and attributes
@@ -22,7 +22,7 @@ Here h1 is container tag and br is non-container tag.
 **Atrribute**:-It provide some extra information about the element, which actually doesn’t appear as content in a webpage.Atrributes are only used in the opening tags
 Example:- `<img src=”” alt=””>`
 Here src is attribute of img tag.
-  ##Basics of CSS
+  ## Basics of CSS
 
 CSS stands for Cascading styling sheets. Css is used to design    our website by adding visual elements like color, layouts, fonts etc. To style elements they are first targeted and then the required styles are applied with the help of selectors, properties and values in CSS.
 **Selectors**:- CSS selectors are used to "find" (or select) the HTML elements you want to style.
@@ -48,10 +48,10 @@ Here heading is the class selector
 
    `<div id="container"></div>`
 In
-  `#container {
+  ```#container {
 
     background-color: red;
-  }`
+  }```
 Here container is id selector
 
  ##Refrencing CSS
